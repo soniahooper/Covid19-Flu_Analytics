@@ -1,6 +1,6 @@
 # Covid19-Flu_Analytics
 
-Presented program provides visual analytics of the existing official public data about number of deaths from Covid19 (since the beginning of the pandemic until 6/26/2021) and from Influenza: Pneumonia (2018-2019) in each USA state.
+Presented program provides analytics and data visualization of the existing official public data about number of deaths from Covid19 (since the beginning of the pandemic until 6/26/2021) and from Influenza: Pneumonia (2018-2019) in each USA state.
 
 Program was created in PyCharm integrated development environment using Python3 and ElephantSQL PostgreSQL database hosting service.
 
@@ -33,6 +33,6 @@ to compare and analyze the data
 
 - Download covid19_flu_deaths_analysis.py and connection_pool.py files
 
-- Run covid19_flu_deaths_analysis.py to get results for influenza, Covid19 or both represented in appropriate bar charts
+- Run covid19_flu_deaths_analysis.py to get visual data results for influenza, Covid19 or both represented in appropriate bar charts
 
 
