@@ -27,6 +27,10 @@ to compare and analyze the data
 ![covid19_influenza](https://user-images.githubusercontent.com/61244643/129079069-65c6b050-9a6a-40dd-9052-613a7fe5200c.png)
 
 
+# How to launch:
 
+- Have installed Pyhton3 IDLE with libraries that are listed in equirements.txt
+
+- Download covid19_flu_deaths_analysis.py and connection_pool.py files
 
 
