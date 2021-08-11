@@ -33,4 +33,6 @@ to compare and analyze the data
 
 - Download covid19_flu_deaths_analysis.py and connection_pool.py files
 
+- Run covid19_flu_deaths_analysis.py to get results for influenza, Covid19 or both represented in appropriate bar charts
+
 
