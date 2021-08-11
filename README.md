@@ -5,7 +5,7 @@ The original public data that used in the program was downloaded from the foloww
 - https://www.cdc.gov
 
 
-Obtained results:
+# Obtained results (GUI Screenshots):
 1. Bar chart that describes the number of deaths from the influenza:pneumonia during years 2018 and 2019 in each USA state
 ![influenza](https://user-images.githubusercontent.com/61244643/129078468-0b6335b3-f5c7-4178-aa9e-bcb4262fea11.png)
 
