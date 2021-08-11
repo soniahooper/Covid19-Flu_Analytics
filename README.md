@@ -1,5 +1,8 @@
 # Covid19-Flu_Project
 Presented program provides visual analytics of the existing official public data about number of deaths from Covid19 (since the beginning of the pandemic until 6/26/2021) and from Influenza: Pneumonia (2018-2019) in each USA state.
+
+Program was created in PyCharm integrated development environment using Python3 and ElephantSQL PostgreSQL database hosting service.
+
 The original public data that used in the program was downloaded from the folowwing websites:
 - https://www.data.gov
 - https://www.cdc.gov
